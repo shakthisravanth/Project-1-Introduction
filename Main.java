@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
         
-        // Scanner Object
+        // create Scanner Object
         
-        // Take user inpout
+        // Take user input
     
         // Use print statement
         
