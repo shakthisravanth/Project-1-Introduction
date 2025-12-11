@@ -1,11 +1,13 @@
+// import statement
+
 public class Main {
     public static void main(String[] args) {
         
-        // Initialize variables
+        // Scanner Object
         
-
-        // Print the data with concatination
-
+        // Take user inpout
+    
+        // Use print statement
         
     }
 }
