@@ -1,7 +1,7 @@
 class Main {
     public static void main(String[] args) {
-        // Initialize variables
-      
-        // Printing statements
+        // static method here sayHello()
+
+        // main method here
     }
 }
