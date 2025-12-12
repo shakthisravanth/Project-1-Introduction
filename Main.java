@@ -1,3 +1,4 @@
+// import statement
 public class Main {
 
     // static method printLine() → prints a separator line
