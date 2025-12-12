@@ -1,5 +1,5 @@
 public class Main {
-        // static method here sayHello()
+        // static method here add()
 
         // main method here
 }
