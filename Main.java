@@ -1,5 +1,5 @@
 public class Main {
-        // static method here printLine()
+        // static method here getProfile(with required parameters)
 
         // main method here
 }
